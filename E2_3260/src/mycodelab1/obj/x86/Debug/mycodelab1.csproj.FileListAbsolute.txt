@@ -1,0 +1,10 @@
+C:\mycode\mycodelab1\mycodelab1\bin\Debug\mycodelab1.exe
+C:\mycode\mycodelab1\mycodelab1\bin\Debug\mycodelab1.pdb
+C:\mycode\mycodelab1\mycodelab1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\mycode\mycodelab1\mycodelab1\obj\x86\Debug\mycodelab1.exe
+C:\mycode\mycodelab1\mycodelab1\obj\x86\Debug\mycodelab1.pdb
+C:\Documents and Settings\Administrator\桌面\lab1\mycodelab1\obj\x86\Debug\mycodelab1.exe
+C:\Documents and Settings\Administrator\桌面\lab1\mycodelab1\obj\x86\Debug\mycodelab1.pdb
+C:\Documents and Settings\Administrator\桌面\lab1\mycodelab1\bin\Debug\mycodelab1.exe
+C:\Documents and Settings\Administrator\桌面\lab1\mycodelab1\bin\Debug\mycodelab1.pdb
+C:\Documents and Settings\Administrator\桌面\lab1\mycodelab1\obj\x86\Debug\ResolveAssemblyReference.cache
